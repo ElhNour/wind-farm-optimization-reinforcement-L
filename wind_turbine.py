@@ -74,6 +74,7 @@ class Wind_turbine:
 		else:
 			power_output = np.max([np.cos(rel_wind_angle * np.pi/180) * facing_wind_power_output, 0])
 
+
 		# If filtering is enabled, process to low-pass filter
 		if self._has_inertia:
 			# Initialize the filter
