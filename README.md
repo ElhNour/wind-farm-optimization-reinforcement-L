@@ -1,3 +1,6 @@
+#  Personal work
+Q-Learning, DQN, and REINFORCE RL algorithms are implemented to solve this problem.
+
 # wind_turbine_env
 Working environment to simulate the power output of a wind turbine given a simulation of the wind
 
